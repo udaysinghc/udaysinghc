@@ -19,7 +19,7 @@ If you're looking for someone who can ensure your application is **FREE FROM BUG
 ### Reach me on:
 - [Upwork](.)
 - [LinkedIn](.)
-- [GitHub](.)
+- [GitHub](https://github.com/udaysinghc)
 - [Email](mailto:.)
 
 ---
