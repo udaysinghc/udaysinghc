@@ -17,10 +17,10 @@ As a dedicated and self-driven **Project Manager and QA Freelancer**, I bring ov
 If you're looking for someone who can ensure your application is **FREE FROM BUGS 🐛🐛🐛, on time ⏳**, then HIRE ME! 🚀🚀🚀
 
 ### Reach me on:
-- [Upwork](.)
-- [LinkedIn](.)
+- [Upwork](https://www.upwork.com/freelancers/udaysingh3)
+- [LinkedIn](https://www.linkedin.com/in/uday-singh-78079155/)
 - [GitHub](https://github.com/udaysinghc)
-- [Email](mailto:.)
+- [Email](mailto:udaysi99@gmail.com)
 
 ---
 🚀 *Let's collaborate and build something amazing together!* 🚀
@@ -36,16 +36,21 @@ If you're looking for someone who can ensure your application is **FREE FROM BUG
 
  - [Web Application bug report](https://tinyurl.com/webtest12QA)- For a Web application testing with steps, videos and log files.
  - [Mobile App bug report](https://docs.google.com/spreadsheets/d/15u5Yxqvn9cfOoIPeG1JX1_hTUM4ET1DzIAlSO-UqX4w/edit?gid=0#gid=0)- For a Web application testing with steps, videos and log files.
- - [Bug Report](https://docs.google.com/spreadsheets/d/1t9KyTlH5v6gz_QYtUpRt2bYjNDs5Db89NwSu1bJ5e0Y/edit?gid=1598429747#gid=1598429747)- bug report sample in Excel format
- - [Bug Report](https://docs.google.com/spreadsheets/d/1XKoR0z19J4zt6CJuXN9Qktb4gyVN7N6i-7z_XnhKnmM/edit?gid=0#gid=0)- bug report sample
+ - [Bug Report](https://docs.google.com/spreadsheets/d/1VzRJETe8WjQQyIVtWM0-B1SR8Dt7y7KstyrrgkJh84s/edit?usp=sharing)- bug report sample
 
 **Test cases Work Sample:**
-- [Test Plan](https://docs.google.com/document/d/1urEP8WUpcnecAllNgL6LjQxIvvE66DJgZXLgic5HeW4/edit?tab=t.0#heading=h.kc786lgjkvxq)
-- [Feature Checklist](https://docs.google.com/spreadsheets/d/1HSBE8mkfhs7JOoBfJeeUeO_9OZBBLdUFWQXyvVIdJnY/edit?gid=1025458239#gid=1025458239)
-- [Test Cases](https://docs.google.com/spreadsheets/d/1xbbxDUgSavrPanoxWWe8ov82VSsuVVekDdUmIqnjOTk/edit?gid=0#gid=0)
+- [Test Plan](https://docs.google.com/document/d/1Y_ZTAGR88xEn6-nGPTj-siH5WRCCrbMkGtGrYVPN340/edit?usp=sharing)
+- [Test Cases](https://docs.google.com/spreadsheets/d/1_OzfQJz4b2vlldEAd5UaeW2mceVdCXU9uoQ3vXNrVn8/edit?usp=sharing)
+- [ChatLLM  Checklist](https://docs.google.com/spreadsheets/d/1JU-uB34Xs0beLavKONqIEbwgoqKpFma1KgDwhdfrAIc/edit?gid=0#gid=0)
+- [CodeLLM  Checklist](https://docs.google.com/spreadsheets/d/1pyiNVo84yonpnBqpn0yW9qsbN2CIVF94WGRi0y_Qtcg/edit?gid=0#gid=0)
+- [Mortgage Loan CRM Checklist](https://docs.google.com/spreadsheets/d/17TN_xpy1jPfrslcyFk3mV7cAQylMLRoC-hMWQWT1l7Y/edit?gid=995827891#gid=995827891)
 - [API Testing](https://docs.google.com/spreadsheets/d/10q_WmAEny3UeyXB4OTCG-AeVxH-273Fbkkheho0KuMw/edit?gid=0#gid=0)
 - [Performance/Load Testing (JMeter)](https://docs.google.com/spreadsheets/d/1SmLqXBb3iSnpy9ukvEbpCQd-6_Fl2TD_gpmiW1QmekY/edit?gid=1157066253#gid=1157066253)
-  
+
+**Video Work Sample:**
+- [Performance Testing using (JMeter)](https://www.loom.com/share/6142475e49764cba8b3d7efb45430f10)
+- [API testing using Postman](https://www.loom.com/share/2e160671d5864dfa964b68490371d55d)  
+
 **Test Closure report Work Sample:**
 - Test clousre report- Mobile app
   
